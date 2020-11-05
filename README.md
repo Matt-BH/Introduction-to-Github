@@ -1,3 +1,8 @@
 # Introduction to Github
 
 This is a repo for the Microsoft Learn Student Ambassadors Event for an introduction to Github
+
+--------
+
+## Contributors:
+Matt B-H
